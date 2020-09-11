@@ -1,4 +1,4 @@
 # module3-solution
 Coding assignment for module 3 [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-Go to andimultazam.github.io/module3-solution to see the solution.
+Check out [here](https://www.andimultazam.github.io/module3-solution) to see the solution live.
